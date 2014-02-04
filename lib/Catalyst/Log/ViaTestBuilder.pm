@@ -1,6 +1,8 @@
 package Catalyst::Log::ViaTestBuilder;
 # ABSTRACT: sends log messages to Test::Builder
 
+our $VERSION = '0.03';
+
 use 5.010;
 use Moose;
 use namespace::autoclean;
