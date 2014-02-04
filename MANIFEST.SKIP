@@ -67,6 +67,4 @@ cover_db
 
 # build files
 ^Exparse-Interpreter-.*
-
-# scratch space
-scratch/
+^contrib
