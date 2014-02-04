@@ -58,3 +58,12 @@ sub _send_to_log {
 }
 
 1;
+
+__END__
+
+=head1 AUTHORS
+
+Sebastian Willert <s.willert@wecare.de>
+Susanne Schmidt <susanne.schmidt@wecare.de>
+
+=cut
